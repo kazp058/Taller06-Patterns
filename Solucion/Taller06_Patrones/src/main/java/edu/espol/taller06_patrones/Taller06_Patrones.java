@@ -4,6 +4,8 @@
 
 package edu.espol.taller06_patrones;
 
+import singleton.FileHandler;
+
 /**
  *
  * @author CltControl
@@ -11,6 +13,6 @@ package edu.espol.taller06_patrones;
 public class Taller06_Patrones {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        FileHandler handler = FileHandler.getInstance();
     }
 }

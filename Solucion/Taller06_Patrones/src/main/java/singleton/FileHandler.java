@@ -19,7 +19,7 @@ public class FileHandler {
         //instanciacion fuera de esta clase
     }
     
-    public FileHandler getInstance(){
+    public static FileHandler getInstance(){
         //Permite acceder a la unica instancia
         if(instance == null){
             instance = new FileHandler();
