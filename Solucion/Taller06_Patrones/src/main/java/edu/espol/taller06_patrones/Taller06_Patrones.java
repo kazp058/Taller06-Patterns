@@ -13,6 +13,7 @@ import singleton.FileHandler;
 public class Taller06_Patrones {
 
     public static void main(String[] args) {
+        //Ejemplo de como se hace instanciacion del Singleton.
         FileHandler handler = FileHandler.getInstance();
     }
 }
