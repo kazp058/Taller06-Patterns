@@ -2,7 +2,7 @@
 ## Solucion
 - [Singleton](https://github.com/kazp058/Taller06-Patterns/blob/main/Solucion/Taller06_Patrones/src/main/java/singleton/FileHandler.java)
 - [Builder](Enlace)
-- [Decorator](Enlace)
+- [Decorator](https://github.com/kazp058/Taller06-Patterns/blob/main/Solucion/Taller06_Patrones/src/main/java/Decorator)
 - [Adaptor](Enlace)
 ## Enlaces
 - [Documento word](https://espolec-my.sharepoint.com/:w:/g/personal/kzhang_espol_edu_ec/EQc023zJQKdFi4uWs3eymg0BvdsI-qdB4l0uhNq6V_VF8Q?e=fywEhk)
